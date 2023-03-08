@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1677461489 source:c:\users\xuant\onedrive\documents\dev\tic_tac_toe\global.cpp
+	"global.h"
+
+1677461471 c:\users\xuant\onedrive\documents\dev\tic_tac_toe\global.h
+	"UTIL.h"
+	"LButton.h"
+	"Constants.h"
+
+1677428834 c:\users\xuant\onedrive\documents\dev\tic_tac_toe\util.h
+	"LButton.h"
+
+1677459227 c:\users\xuant\onedrive\documents\dev\tic_tac_toe\lbutton.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<iostream>
+	<cstring>
+	"Constants.h"
+
+1677451702 c:\users\xuant\onedrive\documents\dev\tic_tac_toe\constants.h
+
+1677563531 source:c:\users\xuant\onedrive\documents\dev\tic_tac_toe\util.cpp
+	"UTIL.h"
+	"global.h"
+	"Constants.h"
+
+1677461942 source:c:\users\xuant\onedrive\documents\dev\tic_tac_toe\lbutton.cpp
+	"LButton.h"
+	"global.h"
+
+1677462153 source:c:\users\xuant\onedrive\documents\dev\tic_tac_toe\main.cpp
+	"UTIL.h"
+	"LButton.h"
+	"Constants.h"
+	"global.h"
+
+1677765831 source:c:\users\admin\downloads\tic_tac_toe-main\global.cpp
+	"global.h"
+
+1677765831 c:\users\admin\downloads\tic_tac_toe-main\global.h
+	"UTIL.h"
+	"LButton.h"
+	"Constants.h"
+
+1678259026 c:\users\admin\downloads\tic_tac_toe-main\util.h
+	"LButton.h"
+
+1677765831 c:\users\admin\downloads\tic_tac_toe-main\lbutton.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<iostream>
+	<cstring>
+	"Constants.h"
+
+1678260420 c:\users\admin\downloads\tic_tac_toe-main\constants.h
+
+1677765831 source:c:\users\admin\downloads\tic_tac_toe-main\lbutton.cpp
+	"LButton.h"
+	"global.h"
+
+1677765831 source:c:\users\admin\downloads\tic_tac_toe-main\main.cpp
+	"UTIL.h"
+	"LButton.h"
+	"Constants.h"
+	"global.h"
+
+1677765831 source:c:\users\admin\downloads\tic_tac_toe-main\util.cpp
+	"UTIL.h"
+	"global.h"
+	"Constants.h"
+
